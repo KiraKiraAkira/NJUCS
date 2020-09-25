@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kirakiraakira/Documents/NJUCS/data structure/OJ/OJ1/20fallds1/main.cpp
+iostream
+-
+vector
+-
+

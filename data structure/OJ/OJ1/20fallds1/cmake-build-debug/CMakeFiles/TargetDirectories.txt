@@ -1,0 +1,3 @@
+/Users/kirakiraakira/Documents/NJUCS/data structure/OJ/OJ1/20fallds1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kirakiraakira/Documents/NJUCS/data structure/OJ/OJ1/20fallds1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kirakiraakira/Documents/NJUCS/data structure/OJ/OJ1/20fallds1/cmake-build-debug/CMakeFiles/20fallds1.dir
